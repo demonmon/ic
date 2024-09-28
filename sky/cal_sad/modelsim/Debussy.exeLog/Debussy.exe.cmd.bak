@@ -1,0 +1,55 @@
+srcSourceCodeView
+debImport "-top" "tb" "-f" "flist.f" "-2001"
+srcResizeWindow -8 -8 1936 1048
+srcDeselectAll -win $_nTrace1
+srcAction -pos 3 4 -cmdMessage -win $_nTrace1
+srcViewImportLogFile
+srcDeselectAll -win $_nTrace2
+srcDeselectAll -win $_nTrace2
+srcDeselectAll -win $_nTrace2
+srcDeselectAll -win $_nTrace2
+srcDeselectAll -win $_nTrace2
+srcDeselectAll -win $_nTrace2
+debReload
+srcHBSelect "sad_cal" -win $_nTrace1
+srcSelect -win $_nTrace1 -range {1 1 3 4 1 1}
+srcCloseWindow -win $_nTrace2
+debReload
+srcHBSelect "sad_cal" -win $_nTrace1
+srcSelect -win $_nTrace1 -range {1 1 3 4 1 1}
+srcDeselectAll -win $_nTrace1
+srcAction -pos 3 4 -cmdMessage -win $_nTrace1
+srcDeselectAll -win $_nTrace1
+srcViewImportLogFile
+srcCloseWindow -win $_nTrace3
+debReload
+srcHBSelect "sad_cal" -win $_nTrace1
+srcSelect -win $_nTrace1 -range {1 1 3 4 1 1}
+srcDeselectAll -win $_nTrace1
+srcAction -pos 3 4 -cmdMessage -win $_nTrace1
+srcDeselectAll -win $_nTrace1
+srcSelect -signal "rstn" -win $_nTrace1
+srcViewImportLogFile
+srcResizeWindow -7 0 974 1039
+debReload
+srcHBSelect "sad_cal" -win $_nTrace1
+srcSelect -win $_nTrace1 -range {1 1 3 4 1 1}
+srcDeselectAll -win $_nTrace4
+srcDeselectAll -win $_nTrace4
+srcDeselectAll -win $_nTrace4
+srcDeselectAll -win $_nTrace4
+srcSelect -win $_nTrace4 -range {24 25 5 9 3 1}
+srcDeselectAll -win $_nTrace4
+srcDeselectAll -win $_nTrace4
+srcDeselectAll -win $_nTrace4
+srcSelect -win $_nTrace4 -range {11 11 5 13 1 8}
+srcDeselectAll -win $_nTrace4
+srcDeselectAll -win $_nTrace4
+debReload
+srcHBSelect "sad_cal" -win $_nTrace1
+srcSelect -win $_nTrace1 -range {1 1 3 4 1 1}
+srcDeselectAll -win $_nTrace4
+debReload
+srcHBSelect "sad_cal" -win $_nTrace1
+srcSelect -win $_nTrace1 -range {1 1 3 4 1 1}
+debExit

@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/modelsim
+vasync_cmp
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 V@R4QMOiPHZ1YnJJ9;B;10
+IWjh?zbZeSzbdM0TR[e3jf1
+R0
+w1657686312
+8C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_cmp.v
+FC:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_cmp.v
+L0 1
+Z2 OL;L;10.6c;65
+Z3 !s108 1657686328.000000
+!s107 C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_cmp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_cmp.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vasync_fifo_2
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 R3ndS9LE^J<L^G9ibN]P[3
+Igo>[M6=bRI32RkZ7l@cd50
+R0
+w1657683993
+8C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2.v
+FC:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2.v
+L0 1
+R2
+R3
+!s107 C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2.v|
+!i113 0
+R4
+R5
+vasync_fifo_2_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZK8kSb:[aQ19<?^TkJER51
+Io7kY]=2bJkOOBO^7Y__ca2
+R0
+w1657684177
+8C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2_tb.v
+FC:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2_tb.v
+L0 1
+R2
+R3
+!s107 C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2_tb.v|
+!i113 0
+R4
+R5

@@ -1,0 +1,15 @@
+C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/arb_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/arb_tb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module arb_tb
+
+Top level modules:
+	arb_tb
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/s_round_arb.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/s_round_arb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module s_round_arb
+
+Top level modules:
+	s_round_arb
+
+} {} {}}

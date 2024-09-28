@@ -1,0 +1,22 @@
+C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_cal.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_cal.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module sad_cal
+
+Top level modules:
+	sad_cal
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_model.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_model.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module sad_model
+
+Top level modules:
+	sad_model
+
+} {} {}}

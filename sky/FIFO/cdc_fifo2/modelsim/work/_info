@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/26802/Desktop/digital_ic/ic/cdc_syncfifo/modelsim
+vcdc_syncfifo
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 A?CH:_ChSTd1n7]<3@jM33
+I@ZKR_k7fABWE?FV5;UTI00
+Z1 dC:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/modelsim
+w1658026576
+8C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo.v
+FC:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo.v
+L0 1
+Z2 OL;L;10.6c;65
+Z3 !s108 1659626577.000000
+!s107 C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vcdc_syncfifo_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 14Be1YDBc_ORKn4@MM?c[3
+In<AITkk0]XWOe7oiGJZ=o3
+R1
+w1659626455
+8C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo_tb.v
+FC:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo_tb.v
+L0 1
+R2
+R3
+!s107 C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/cdc_syncfifo_tb.v|
+!i113 0
+R4
+R5
+vsync2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 >hPXU5e6629CZ:e_EollP1
+IKdk[8MXA?RlW8CzCo2CAl1
+R1
+w1657935705
+8C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/sync2.v
+FC:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/sync2.v
+L0 1
+R2
+R3
+!s107 C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/sync2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/inf/Desktop/digital_ic/project/cdc_syncfifo/code/sync2.v|
+!i113 0
+R4
+R5

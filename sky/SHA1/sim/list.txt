@@ -1,0 +1,3 @@
+../code/sha1.v
+../code/tb_sha1.v
+

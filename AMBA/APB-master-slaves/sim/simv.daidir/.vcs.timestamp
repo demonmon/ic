@@ -1,0 +1,147 @@
+0 
+38
++itf+/home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/vcsdp_lite.tab
++v2k
++vc
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/home/synopsys/vcs-mx/O-2018.09-1/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/libvirsim.so /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/liberrorinf.so /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/libsnpsmalloc.so /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/libvfs.so /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/pli.a
+-Mout=simv
+-Msaverestoreobj=/home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/pli.a -ldl -lm
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/synopsys/vcs-mx/O-2018.09-1/include
+-P
+-P
+-Xvcs_run_simv=1
+-debug_acc+all
+-debug_acc+fsdb
+-f filelist.f
+-fsdb
+-full64
+-gen_obj
+-l
+-picarchive
+-sverilog
+-timescale=1ns/1ps
+/home/synopsys/vcs-mx/O-2018.09-1/linux64/bin/vcs1
+/home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/novas.tab
+/home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/verdi.tab
+compile.log
+85
+sysc_uni_pwd=/home/ICer/ic_prjs/APB-master-slaves/sim
+XMODIFIERS=@im=ibus
+XILINX_VIVADO=/home/Xilinx/Vivado/2019.1
+XDG_VTNR=1
+XDG_SESSION_TYPE=x11
+XDG_SESSION_ID=1
+XDG_SESSION_DESKTOP=gnome-classic
+XDG_SEAT=seat0
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_MENU_PREFIX=gnome-
+XDG_DATA_DIRS=/home/ICer/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/
+XDG_CURRENT_DESKTOP=GNOME-Classic:GNOME
+XAUTHORITY=/run/gdm/auth-for-ICer-5xxIRd/database
+WINDOWPATH=1
+VTE_VERSION=5204
+VMR_MODE_FLAG=64
+VERDI_HOME=/home/synopsys/verdi/Verdi_O-2018.09-SP2
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=compile.log
+VCS_HOME=/home/synopsys/vcs-mx/O-2018.09-1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+USERNAME=ICer
+UNAME=/bin/uname
+TOOL_HOME=/home/synopsys/vcs-mx/O-2018.09-1/linux64
+SYNPLIFY_HOME=/home/synopsys/fpga/N-2018.03-SP1
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+SSH_AGENT_PID=3312
+SPYGLASS_HOME=/home/synopsys/SpyGlass-L2016.06/SPYGLASS_HOME/
+SPECMAN_HOME=/home/cadence/INCISIVE152/components/sn
+SPECMAN_DIR=/home/cadence/INCISIVE152/components/sn/
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3174,unix/unix:/tmp/.ICE-unix/3174
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SCL_HOME=/home/synopsys/scl/2018.06
+QUESTASIM_HOME=/home/mentor/questasim/linux_x86_64
+QT_PLUGIN_PATH=/usr/lib64/kde4/plugins:/usr/lib/kde4/plugins
+QT_IM_MODULE=ibus
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib/qt-3.3/lib
+QTINC=/usr/lib/qt-3.3/include
+QTDIR=/usr/lib/qt-3.3
+PT_HOME=/home/synopsys/pts/O-2018.06-SP1
+OVA_UUM=0
+MGLS_LICENSE_FILE=/home/mentor/questasim/mentor.dat
+MGC_LICENSE_FILE=/home/mentor//license/license.dat
+MGC_HOME=/home/mentor/
+MGC_CALIBRE_SCHEMATIC_SERVER=IC_EDA:9199
+MGC_CALIBRE_LAYOUT_SERVER=IC_EDA:9189
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_TIME=zh_CN.UTF-8
+LC_PAPER=zh_CN.UTF-8
+LC_NUMERIC=zh_CN.UTF-8
+LC_MONETARY=zh_CN.UTF-8
+LC_MEASUREMENT=zh_CN.UTF-8
+LC_ALL=C
+KDEDIRS=/usr
+INCISIVE_HOME=/home/cadence/INCISIVE152
+IMSETTINGS_MODULE=none
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+ICC2_HOME=/home/synopsys/icc2/O-2018.06-SP1
+HISTCONTROL=ignoredups
+GNOME_TERMINAL_SERVICE=:1.112
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/199a1751_4738_4d53_ad34_07e81690414a
+GNOME_SHELL_SESSION_MODE=classic
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDM_LANG=zh_CN.UTF-8
+GDMSESSION=gnome-classic
+DVE_HOME=/home/synopsys/vcs-mx/O-2018.09-1
+DESKTOP_SESSION=gnome-classic
+DC_HOME=/home/synopsys/syn/O-2018.06-SP1
+DBUS_STARTER_BUS_TYPE=session
+DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-J7a2wAycLc,guid=5daf129ea459b7a8af2b4edf62f60f08
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-J7a2wAycLc,guid=5daf129ea459b7a8af2b4edf62f60f08
+COLORTERM=truecolor
+CDS_LIC_FILE=/home/cadence/license/cadence.dat
+CDSHOME=/home/cadence/IC617
+CALIBRE_HOME=/home/mentor//Calibre2015/aoi_cal_2015.2_36.27
+CADHOME=/home/cadence
+0
+11
+1660226298 ../rtl/apb_protocol_tb.v
+1660228912 ../rtl/apb_protocol.v
+1660228946 ../rtl/apb_master.v
+1660227574 ../rtl/apb_reg.v
+1660208947 ../rtl/apb_slave1.v
+1660226303 ../rtl/apb_slave.v
+1660226306 ../rtl/slave_top.v
+1660210457 filelist.f
+1550753332 /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/novas.tab
+1539400757 /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/vcsdp_lite.tab
+1550753332 /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/verdi.tab
+5
+1539402341 /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/libvirsim.so
+1539401183 /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/liberrorinf.so
+1539401125 /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/libsnpsmalloc.so
+1539401175 /home/synopsys/vcs-mx/O-2018.09-1/linux64/lib/libvfs.so
+1550752033 /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/pli.a
+1660293937 simv.daidir
+-1 partitionlib

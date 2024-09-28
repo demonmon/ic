@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/work
+vhandshake
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Al=iM4]:5lmYF@b@T@_f92
+IMEaFNh:Ok@z89_N[FWb8i2
+R0
+w1660489204
+8C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/handshake.v
+FC:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/handshake.v
+L0 1
+Z2 OL;L;10.6c;65
+Z3 !s108 1660489245.000000
+!s107 C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/handshake.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/handshake.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vtb_handshake
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 b[?bdE7l`I_L`[0mVYk;o2
+I]m[ijWA9kDS8CWHDaBTEF1
+R0
+w1660489239
+8C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/tb_handshake.v
+FC:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/tb_handshake.v
+L0 1
+R2
+R3
+!s107 C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/tb_handshake.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/tb_handshake.v|
+!i113 0
+R4
+R5

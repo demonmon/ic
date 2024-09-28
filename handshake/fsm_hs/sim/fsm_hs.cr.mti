@@ -1,0 +1,15 @@
+C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/handshake.v {1 {vlog -work work -vopt -stats=none C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/handshake.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module handshake
+
+Top level modules:
+	handshake
+
+} {} {}} C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/tb_handshake.v {1 {vlog -work work -vopt -stats=none C:/Users/inf/Desktop/digital_ic/project/handshake/fsm_hs/code/tb_handshake.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_handshake
+
+Top level modules:
+	tb_handshake
+
+} {} {}}

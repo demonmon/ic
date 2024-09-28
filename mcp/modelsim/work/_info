@@ -1,0 +1,112 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/26802/Desktop/digital_ic/ic/CDC/modelsim
+va_fsm
+Z0 !s110 1658241382
+!i10b 1
+!s100 EZ14n2if_C]A3TXLld[N_1
+IU0>m4;i_OdUik8k5D;Ho:2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/26802/Desktop/digital_ic/ic/mcp/modelsim
+w1657981592
+8C:/Users/26802/Desktop/digital_ic/ic/mcp/code/a_fsm.v
+FC:/Users/26802/Desktop/digital_ic/ic/mcp/code/a_fsm.v
+L0 1
+Z3 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1658241382.000000
+!s107 C:/Users/26802/Desktop/digital_ic/ic/mcp/code/a_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/mcp/code/a_fsm.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vb_fsm
+R0
+!i10b 1
+!s100 bVG3l@Z2DGBm<;SV2`ZaC1
+IaD4ceRFJU7QlaPM_]@`4R1
+R1
+R2
+w1657939045
+8C:/Users/26802/Desktop/digital_ic/ic/mcp/code/b_fsm.v
+FC:/Users/26802/Desktop/digital_ic/ic/mcp/code/b_fsm.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/26802/Desktop/digital_ic/ic/mcp/code/b_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/mcp/code/b_fsm.v|
+!i113 0
+R5
+R6
+vmcp
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 I?z9:nGn[7<LHe9HYO9z52
+I;EY8;@7AoHR=[[4nBOf:Z3
+R2
+w1658052897
+8C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp.v
+FC:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp.v
+L0 1
+R3
+R4
+!s107 C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp.v|
+!i113 0
+R5
+R6
+vmcp_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 hDn@7i4iYd32?AJ@HIFaN0
+IlQi_Kdg9zL:W93XALEWA>2
+R2
+w1658241375
+8C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp_tb.v
+FC:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp_tb.v
+L0 1
+R3
+R4
+!s107 C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp_tb.v|
+!i113 0
+R5
+R6
+vsync2
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 >hPXU5e6629CZ:e_EollP1
+IIk^9RKZ0YXz_3aLGX7C642
+R2
+w1657935705
+8C:/Users/26802/Desktop/digital_ic/ic/mcp/code/sync2.v
+FC:/Users/26802/Desktop/digital_ic/ic/mcp/code/sync2.v
+L0 1
+R3
+!s108 1658241383.000000
+!s107 C:/Users/26802/Desktop/digital_ic/ic/mcp/code/sync2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/mcp/code/sync2.v|
+!i113 0
+R5
+R6

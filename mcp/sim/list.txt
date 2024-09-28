@@ -1,0 +1,6 @@
+../code/a_fsm.v
+../code/b_fsm.v
+../code/sync2.v
+../code/mcp.v
+../code/mcp_tb.v
+

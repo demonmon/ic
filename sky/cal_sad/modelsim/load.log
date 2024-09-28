@@ -1,0 +1,80 @@
+# End time: 19:07:33 on Jun 09,2022, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 6
+# vsim -c "+nowarnTSCALE" -L ./work -novopt -l load.log tb 
+# Start time: 19:07:33 on Jun 09,2022
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading work.tb
+# Refreshing C:/Users/26802/Desktop/digital_ic/cal_sad/modelsim/work.sad_model
+# Loading work.sad_model
+# Refreshing C:/Users/26802/Desktop/digital_ic/cal_sad/modelsim/work.sad_cal
+# Loading work.sad_cal
+# ** Warning: (vsim-3017) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(136): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/u_sad_model File: ../code/sad_model.v
+# ** Warning: (vsim-3017) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(149): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/u_sad_cal File: ../code/sad_cal.v
+# ** Warning: (vsim-PLI-3003) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(26): [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+# ** Warning: (vsim-PLI-3003) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(27): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+# hexadecimal
+# ** Error (suppressible): (vsim-12023) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(26): Cannot execute undefined system task/function '$fsdbDumpfile'
+# ** Error (suppressible): (vsim-12023) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(27): Cannot execute undefined system task/function '$fsdbDumpvars'
+# Info:Do fixed test
+# Info:Do random test_1
+# info:sad_sal sim pass
+# ** Note: $finish    : C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(118)
+#    Time: 655646 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v line 118
+add wave -position insertpoint  \
+sim:/tb/u_sad_cal/sub \
+sim:/tb/u_sad_cal/abs \
+sim:/tb/u_sad_cal/acc_16_4 \
+sim:/tb/u_sad_cal/acc_4_4 \
+sim:/tb/u_sad_cal/acc_4_1
+restart
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# ** Warning: (vsim-3017) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(136): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/u_sad_model File: ../code/sad_model.v
+# ** Warning: (vsim-3017) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(149): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/u_sad_cal File: ../code/sad_cal.v
+# ** Warning: (vsim-PLI-3003) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(26): [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+# ** Warning: (vsim-PLI-3003) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(27): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+run 1000000ns
+# ** Error (suppressible): (vsim-12023) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(26): Cannot execute undefined system task/function '$fsdbDumpfile'
+# ** Error (suppressible): (vsim-12023) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(27): Cannot execute undefined system task/function '$fsdbDumpvars'
+# Info:Do fixed test
+# Info:Do random test_1
+# info:sad_sal sim pass
+# ** Note: $finish    : C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(118)
+#    Time: 655646 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v line 118
+add wave -position insertpoint  \
+sim:/tb/u_sad_cal/cal_en_d
+add wave -position insertpoint  \
+sim:/tb/u_sad_model/cal_en_d
+restart
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# ** Warning: (vsim-3017) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(136): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/u_sad_model File: ../code/sad_model.v
+# ** Warning: (vsim-3017) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(149): [TFMPC] - Too few port connections. Expected 8, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/u_sad_cal File: ../code/sad_cal.v
+# ** Warning: (vsim-PLI-3003) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(26): [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+# ** Warning: (vsim-PLI-3003) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(27): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /tb File: C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+run -all
+# ** Error (suppressible): (vsim-12023) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(26): Cannot execute undefined system task/function '$fsdbDumpfile'
+# ** Error (suppressible): (vsim-12023) C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(27): Cannot execute undefined system task/function '$fsdbDumpvars'
+# Info:Do fixed test
+# Info:Do random test_1
+# info:sad_sal sim pass
+# ** Note: $finish    : C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v(118)
+#    Time: 655646 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v line 118
+# End time: 19:51:43 on Jun 09,2022, Elapsed time: 0:44:10
+# Errors: 2, Warnings: 0

@@ -1,0 +1,10 @@
+../rtl/slave_top.v
+../rtl/apb_slave.v
+../rtl/apb_slave1.v
+../rtl/apb_reg.v
+../rtl/a_apb_master.v
+../rtl/apb_protocol.v
+../rtl/apb_protocol_tb.v
+../rtl/apb2apb_bridge.v
+##../rtl/apb_sram.v
+##../rtl/spram_generic.v

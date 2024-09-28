@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/26802/Desktop/digital_ic/cal_sad/modelsim
+T_opt
+!s110 1654775861
+VdW@m4zEdTn4Y7X1ZYSSC10
+04 2 4 work tb fast 0
+=1-cc6b1e3c6e15-62a1e033-2f8-65cc
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+R0
+vsad_cal
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 RlG=g5<NS_LEIOIN^M[^:2
+Ie21ZZ6QH89G?8gWBdcV_g3
+R0
+w1654779500
+8C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_cal.v
+FC:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_cal.v
+L0 1
+Z3 OL;L;10.6c;65
+Z4 !s108 1654779508.000000
+!s107 C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_cal.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_cal.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vsad_model
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 `@F[C^_^46h=@kf02lh^R0
+I@NhcS@dz9Kb^o3OiN9R`>2
+R0
+w1654757722
+8C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_model.v
+FC:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_model.v
+L0 1
+R3
+R4
+!s107 C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_model.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/cal_sad/code/sad_model.v|
+!i113 0
+R5
+R1
+vtb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 JJUYIekK?o_N[K18PZNcS2
+I^7Dmen@d;FfRdz>9MMQKA0
+R0
+w1654779335
+8C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+FC:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v
+L0 3
+R3
+R4
+!s107 C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/cal_sad/code/tb.v|
+!i113 0
+R5
+R1

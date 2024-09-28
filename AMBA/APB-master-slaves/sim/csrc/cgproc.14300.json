@@ -1,0 +1,256 @@
+{
+    "Modules": {
+        "...MASTER...": {
+            "start_perf": [
+                0.11998701095581055,
+                0.051977000000000002,
+                0.037708999999999999,
+                270252,
+                283604,
+                1660293936.8493509,
+                3242974643504
+            ],
+            "end_perf": [
+                0.12212514877319336,
+                0.054073999999999997,
+                0.037748999999999998,
+                272680,
+                283604,
+                3242980873433,
+                0,
+                0
+            ],
+            "child_modules": {
+                "apb_protocol_tb": 1,
+                "std": 1
+            },
+            "nQuads": 0,
+            "nMops": 0,
+            "nRouts": 5
+        },
+        "apb_protocol_tb": {
+            "start_perf": [
+                0.12839102745056152,
+                0.059663000000000001,
+                0.038427000000000003,
+                276696,
+                283604,
+                1660293936.8577549,
+                3242999047629
+            ],
+            "child_modules": {},
+            "end_perf": [
+                0.16907715797424316,
+                0.097214999999999996,
+                0.041519,
+                281308,
+                283604,
+                3243117369954,
+                38654705665,
+                0
+            ],
+            "Compiled": "Yes",
+            "Compiled Times": 1,
+            "nRouts": 278,
+            "significant_routs": [
+                [
+                    76,
+                    "U_VCSgd_LKvNT_76",
+                    1554485,
+                    1096,
+                    108
+                ],
+                [
+                    131,
+                    "R_VCSgd_LKvNT_83",
+                    1702359,
+                    1371,
+                    118
+                ],
+                [
+                    134,
+                    "R_VCSgd_LKvNT_86",
+                    2043995,
+                    2125,
+                    171
+                ],
+                [
+                    138,
+                    "R_VCSgd_LKvNT_8a",
+                    5516684,
+                    4909,
+                    476
+                ],
+                [
+                    140,
+                    "R_VCSgd_LKvNT_8c",
+                    2463562,
+                    3013,
+                    277
+                ],
+                [
+                    142,
+                    "R_VCSgd_LKvNT_8e",
+                    1706854,
+                    1062,
+                    79
+                ],
+                [
+                    148,
+                    "R_VCSgd_LKvNT_94",
+                    2276559,
+                    1657,
+                    156
+                ]
+            ],
+            "nQuads": 2487,
+            "nMops": 5625
+        },
+        "std": {
+            "start_perf": [
+                0.12218213081359863,
+                0.054108000000000003,
+                0.037773000000000001,
+                272680,
+                283604,
+                1660293936.851546,
+                3242981018430
+            ],
+            "child_modules": {},
+            "end_perf": [
+                0.12834000587463379,
+                0.059631999999999998,
+                0.038406999999999997,
+                276696,
+                283604,
+                3242998959241,
+                8589934594,
+                0
+            ],
+            "Compiled": "Yes",
+            "Compiled Times": 1,
+            "nRouts": 33,
+            "significant_routs": [
+                [
+                    24,
+                    "F_VCSgd_reYIK_24_0",
+                    1744459,
+                    984,
+                    90
+                ]
+            ],
+            "svclass": [
+                "$vcs_nba_dyn_obj",
+                576,
+                35,
+                2,
+                2,
+                0,
+                "sigprop$$",
+                576,
+                35,
+                2,
+                2,
+                0,
+                "process",
+                2380,
+                200,
+                8,
+                8,
+                0,
+                "event",
+                597,
+                34,
+                2,
+                2,
+                0,
+                "mailbox",
+                1769,
+                140,
+                9,
+                9,
+                0,
+                "semaphore",
+                1119,
+                84,
+                5,
+                5,
+                0
+            ],
+            "nQuads": 218,
+            "nMops": 528
+        }
+    },
+    "stat": {
+        "peak_mem_kb": 283604,
+        "ru_childs_end": {
+            "ru_minflt": 11164,
+            "ru_utime_sec": 0.012403000000000001,
+            "ru_stime_sec": 0.022901999999999999,
+            "ru_nivcsw": 21,
+            "ru_nvcsw": 27,
+            "ru_maxrss_kb": 25504,
+            "ru_majflt": 0
+        },
+        "ru_self_end": {
+            "ru_minflt": 30249,
+            "ru_utime_sec": 0.097656000000000007,
+            "ru_stime_sec": 0.045303999999999997,
+            "ru_nivcsw": 8,
+            "ru_nvcsw": 40,
+            "ru_maxrss_kb": 88732,
+            "ru_majflt": 0
+        },
+        "cpu_cycles_end": 3243132940820
+    },
+    "CompUnits": {
+        "reYIK_d": {
+            "mod": "std",
+            "archive": "archive.0/_14300_archive_1.a",
+            "cls": 7017,
+            "out": "reYIK_d.o",
+            "text": 7325,
+            "bytes": 43078,
+            "mode": 4,
+            "checksum": 0
+        },
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "out": "objs/amcQw_d.o",
+            "text": 434,
+            "bytes": 7904,
+            "mode": 4,
+            "checksum": 0
+        },
+        "LKvNT_d": {
+            "mod": "apb_protocol_tb",
+            "archive": "archive.0/_14300_archive_1.a",
+            "out": "LKvNT_d.o",
+            "text": 52473,
+            "bytes": 90388,
+            "mode": 4,
+            "checksum": 0
+        }
+    },
+    "reusePaths": {},
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_14300_archive_1.a",
+            "objects": [
+                [
+                    "reYIK_d.o",
+                    43078
+                ],
+                [
+                    "LKvNT_d.o",
+                    90388
+                ],
+                [
+                    "amcQwB.o",
+                    127118
+                ]
+            ],
+            "size": 260584
+        }
+    ]
+}

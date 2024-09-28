@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/26802/Desktop/digital_ic/ic/sync_hs/modelsim
+T_opt
+!s110 1657112442
+V7oc7Ok4j^G31I>z@>APSk3
+Z1 04 10 4 work sync_hs_tb fast 0
+=1-cc6b1e3c6e15-62c58778-2fa-32f8
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1657720443
+VfL7IlPE=7lmECLz;LR]2k1
+R1
+=1-cc6b1e3c6e15-62cece7b-167-6434
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vsync_hs
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1Tn=ZAB_ZX0;fIb^HZk601
+I5fUAOT8d[^2m7W3ZVgj7E1
+R0
+w1657511739
+8C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs.v
+FC:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs.v
+L0 1
+Z5 OL;L;10.6c;65
+Z6 !s108 1657720030.000000
+!s107 C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vsync_hs_tb
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 M61KK9H=de9Z?SY:J2Sbg0
+I`]kDK5SIORik1^aXQa3=>1
+R0
+w1657112146
+8C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs_tb.v
+FC:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs_tb.v
+L0 3
+R5
+R6
+!s107 C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_hs_tb.v|
+!i113 0
+R7
+R2
+vsync_level
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 kVW1aaXRM7=8W?2NL0bf00
+IjgRASlPm9kj]V8@IXYL7i2
+R0
+w1657174616
+8C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_level.v
+FC:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_level.v
+L0 1
+R5
+R6
+!s107 C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_level.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/sync_hs/code/sync_level.v|
+!i113 0
+R7
+R2

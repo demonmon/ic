@@ -1,0 +1,22 @@
+C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2_tb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module async_fifo_2_tb
+
+Top level modules:
+	async_fifo_2_tb
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_cmp.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_cmp.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module async_cmp
+
+Top level modules:
+	async_cmp
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/async_fifo_2.v/code/async_fifo_2.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module async_fifo_2
+
+Top level modules:
+	async_fifo_2
+
+} {} {}}

@@ -1,0 +1,36 @@
+C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp_tb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mcp_tb
+
+Top level modules:
+	mcp_tb
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/ic/mcp/code/a_fsm.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/mcp/code/a_fsm.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module a_fsm
+
+Top level modules:
+	a_fsm
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/ic/mcp/code/sync2.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/mcp/code/sync2.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module sync2
+
+Top level modules:
+	sync2
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/ic/mcp/code/b_fsm.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/mcp/code/b_fsm.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module b_fsm
+
+Top level modules:
+	b_fsm
+
+} {} {}} C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp.v {1 {vlog -work work -vopt -stats=none C:/Users/26802/Desktop/digital_ic/ic/mcp/code/mcp.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mcp
+
+Top level modules:
+	mcp
+
+} {} {}}

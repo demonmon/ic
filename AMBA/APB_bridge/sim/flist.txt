@@ -1,0 +1,7 @@
+../code/apb_protocol.v
+../code/apb_protocol_tb.v
+../code/a_apb_master.v
+../code/apb2apb_bridge.v
+../code/apb_slave.v
+../code/slave_top.v
+../code/apb_reg.v

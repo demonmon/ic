@@ -1,0 +1,29 @@
+*design* DebussyLib (btIdent 3.3v9)
+Command arguments:
+    +define+verilog
+    -top
+    tb
+    -f flist.f
+        ../code/sad_cal.v
+        ../code/sad_model.v
+    -2001
+
+*Error*  syntax error
+"../code/sad_model.v", 30: assign<-
+*Error*  syntax error
+"../code/sad_model.v", 32: end<-
+*Error*  syntax error
+"../code/sad_model.v", 54: if<-
+*Error*  syntax error
+"../code/sad_model.v", 65: end<-
+*Error*  syntax error
+"../code/sad_model.v", 74: cal_en_d<-
+*Error*  syntax error
+"../code/sad_model.v", 77: end<-
+*Error*  syntax error
+"../code/sad_model.v", 87: endgenerate<-
+Highest level modules:
+sad_cal
+sad_model
+
+Total	7 error(s),   0 warning(s)

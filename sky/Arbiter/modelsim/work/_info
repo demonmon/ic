@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/26802/Desktop/digital_ic/ic/Arbiter/modelsim
+varb_tb
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 :BXj>Eo3S6n1;>LP1gBJ63
+IDISM1aSJ9_RnchOlAK;8d0
+R0
+w1655733803
+8C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/arb_tb.v
+FC:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/arb_tb.v
+L0 2
+Z2 OL;L;10.6c;65
+Z3 !s108 1655734492.000000
+!s107 C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/arb_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/arb_tb.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vround_arb
+!s110 1655730817
+!i10b 1
+!s100 S@B:C]Q<izS>[?hUN?D^i1
+IJUFR`N1^aP:45BEH4<MQU0
+R1
+R0
+w1655730706
+Z6 8C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/s_round_arb.v
+Z7 FC:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/s_round_arb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655730817.000000
+Z8 !s107 C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/s_round_arb.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/26802/Desktop/digital_ic/ic/Arbiter/code/s_round_arb.v|
+!i113 0
+R4
+R5
+vs_round_arb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 QGER;m7TG_Ka:kdJ8T]713
+I3SkzPzSf^aLU_P:na1@jG3
+R0
+w1655734487
+R6
+R7
+L0 1
+R2
+R3
+R8
+R9
+!i113 0
+R4
+R5

@@ -1,0 +1,3 @@
+../code/nofsm_ready_hs.v
+../code/tb_hs_buf.v
+

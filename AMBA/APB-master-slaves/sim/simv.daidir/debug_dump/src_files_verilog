@@ -1,0 +1,7 @@
+/home/ICer/ic_prjs/APB-master-slaves/rtl/apb_master.v
+/home/ICer/ic_prjs/APB-master-slaves/rtl/apb_protocol.v
+/home/ICer/ic_prjs/APB-master-slaves/rtl/apb_protocol_tb.v
+/home/ICer/ic_prjs/APB-master-slaves/rtl/apb_reg.v
+/home/ICer/ic_prjs/APB-master-slaves/rtl/apb_slave.v
+/home/ICer/ic_prjs/APB-master-slaves/rtl/apb_slave1.v
+/home/ICer/ic_prjs/APB-master-slaves/rtl/slave_top.v
