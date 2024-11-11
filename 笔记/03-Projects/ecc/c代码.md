@@ -1,0 +1,14 @@
+---
+title: c代码
+updated: 2022-04-08T16:50:10.0000000+08:00
+created: 2022-04-08T16:43:41.0000000+08:00
+---
+
+#define ECC_MULT_ALGO_TYPE 32
+
+#elif (ECC_MULT_ALGO_TYPE == 32)
+#define MAX_OCTETS256 36
+#define MAX_DIGITS_256 72 // ( (9+9) \* 4 )
+#define ELEMENTS_BIG_HEX256 (MAX_OCTETS256/4) // 9
+#define HIGHEST_INDEX_BIG_HEX256 (MAX_OCTETS256/4 )- 1 // 8
+

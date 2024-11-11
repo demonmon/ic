@@ -1,0 +1,15 @@
+{
+  "port": "2022",
+  "autoReload": true,
+  "exportDirectory": "/",
+  "enableChalkboard": true,
+  "enableOverview": false,
+  "enableMenu": true,
+  "theme": "black",
+  "highlightTheme": "zenburn",
+  "transition": "convex",
+  "transitionSpeed": "default",
+  "controls": true,
+  "progress": false,
+  "slideNumber": true
+}

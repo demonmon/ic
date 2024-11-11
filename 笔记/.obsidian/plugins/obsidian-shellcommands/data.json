@@ -1,0 +1,118 @@
+{
+  "settings_version": "0.16.0",
+  "debug": false,
+  "obsidian_command_palette_prefix": "Execute: ",
+  "preview_variables_in_command_palette": true,
+  "show_autocomplete_menu": true,
+  "working_directory": "",
+  "default_shells": {},
+  "environment_variable_path_augmentations": {},
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "execution_notification_mode": "disabled",
+  "output_channel_clipboard_also_outputs_to_notification": true,
+  "enable_events": true,
+  "approve_modals_by_pressing_enter_key": true,
+  "max_visible_lines_in_shell_command_fields": false,
+  "shell_commands": [
+    {
+      "platform_specific_commands": {
+        "default": "python ./08-Assets/Scripts/auto_transfer.py"
+      },
+      "shells": {},
+      "alias": "test_草稿归档",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "current-file-caret",
+        "stderr": "current-file-caret"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "id": "0",
+      "icon": null,
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "platform_specific_commands": {
+        "default": "python ./08-Assets/Scripts/ref_list.py {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "test_引文列表",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "current-file-caret",
+        "stderr": "current-file-caret"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "id": "1",
+      "icon": null,
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "platform_specific_commands": {
+        "default": "python ./08-Assets/Scripts/author_count.py {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "test_作者统计",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "current-file-caret",
+        "stderr": "current-file-caret"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "id": "2",
+      "icon": null,
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "platform_specific_commands": {
+        "default": "python ./08-Assets/Scripts/paper2docx.py {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "test_导出笔记",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "current-file-caret",
+        "stderr": "current-file-caret"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "id": "3",
+      "icon": null,
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "preactions": [],
+      "variable_default_values": {}
+    }
+  ],
+  "prompts": [],
+  "custom_variables": [],
+  "output_wrappers": []
+}

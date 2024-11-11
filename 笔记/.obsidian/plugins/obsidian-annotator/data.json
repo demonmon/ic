@@ -1,0 +1,16 @@
+{
+  "deafultDarkMode": false,
+  "darkReaderSettings": {
+    "brightness": 150,
+    "contrast": 85,
+    "sepia": 0
+  },
+  "debugLogging": false,
+  "customDefaultPath": "08-Assets/pdfs/",
+  "annotationMarkdownSettings": {
+    "includePrefix": true,
+    "highlightHighlightedText": true,
+    "includePostfix": true,
+    "annotationModeByDefault": true
+  }
+}

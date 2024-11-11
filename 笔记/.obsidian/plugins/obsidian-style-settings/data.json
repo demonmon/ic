@@ -1,0 +1,19 @@
+{
+  "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-default",
+  "blue-topaz-theme@@background-image-settings-markdown-page-random-options": "background-image-settings-markdown-page-random-blue",
+  "blue-topaz-theme@@background-image-settings-markdown-page-random": false,
+  "blue-topaz-theme@@remove-file-icons": true,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "checkbox@@check-color": true,
+  "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-default",
+  "blue-topaz-theme@@accent-strong@@light": "#820FC0",
+  "blue-topaz-theme@@hr-for-pagination": true,
+  "blue-topaz-theme@@print-strong-color@@light": "#820FC0",
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@hide-vault-name": true,
+  "time@@time-color@@light": "#4E62CD",
+  "time@@time-color@@dark": "#4E62CD",
+  "blue-topaz-theme@@list-style-change-options": "list-no-border",
+  "blue-topaz-theme@@style-options-for-buttons-plugin": true
+}

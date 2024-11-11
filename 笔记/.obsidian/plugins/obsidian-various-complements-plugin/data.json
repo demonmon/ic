@@ -1,0 +1,163 @@
+{
+  "strategy": "japanese",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 150,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^【[\\$#@^&*(!~`",
+  "showMatchStrategy": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "函数": {
+      "函数": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663423787333
+        }
+      }
+    },
+    "Fabien Pinaud": {
+      "Fabien Pinaud": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1664260623982
+        }
+      }
+    },
+    "delay": {
+      "delay": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665215569742
+        }
+      }
+    },
+    "test": {
+      "test": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665215615241
+        }
+      }
+    },
+    "可控制": {
+      "可控制": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665218579265
+        }
+      }
+    },
+    "outstanding": {
+      "outstanding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665234487611
+        }
+      }
+    },
+    "python代码说明与调试方法": {
+      "python代码说明与调试方法": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1665455202776
+        }
+      }
+    },
+    "Precharge": {
+      "Precharge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665626398578
+        }
+      }
+    },
+    "进去": {
+      "进去": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665626472890
+        }
+      }
+    },
+    "操作": {
+      "操作": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665629319084
+        }
+      }
+    },
+    "命令": {
+      "命令": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665630024419
+        }
+      }
+    },
+    "关闭": {
+      "关闭": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665628461242
+        }
+      }
+    },
+    "一行": {
+      "一行": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665628963260
+        }
+      }
+    },
+    "filename": {
+      "filename": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1665645203643
+        }
+      }
+    },
+    "重定向": {
+      "重定向": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1665645922148
+        }
+      }
+    }
+  }
+}
